@@ -6,4 +6,4 @@ The [Core Team](https://docs.web3privacy.info/core-team) is the team of people w
 This repository serves as a basic repository for Project Management (PM) of Core Team.
 
 ### Projects
-* [Web3Privacy Now Core](https://github.com/orgs/web3privacy/projects/8/views/1)
+* [W3PN Core](https://github.com/orgs/web3privacy/projects/8/views/1)
